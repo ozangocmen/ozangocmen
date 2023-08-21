@@ -1,7 +1,7 @@
 <h1 align="center">Ozan Gocmen</h1>
 <h3 align="center">Bioinformatics | Computational Biology | scRNA-seq | Spatial Transcriptomics | Genomics</h3>
 
-- 👯 I’m looking to internship on **bioinformatics development projects**
+- 👨‍💻 I’m looking to internship on **bioinformatics development projects**
   
 <a align="left">![](https://github.com/ozangocmen/ozangocmen/blob/main/giphy.gif)</a>
 <h3 align="left">Connect with me:</h3>
