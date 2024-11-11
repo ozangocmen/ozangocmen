@@ -2,7 +2,7 @@
 <h3 align="center">Bioinformatics | Computational Biology | scRNA-seq | Spatial Transcriptomics | Genomics</h3>
 
 
-- NEWWS!!! Our Shiny application avaliable https://www.shinyapps.io/admin/#/application/11751712  
+- NEWWS!!! Our Shiny application avaliable  https://053p6k-ozan-gocmen.shinyapps.io/cellmap/
 <a align="left">![](https://github.com/ozangocmen/ozangocmen/blob/main/giphy.gif)</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
