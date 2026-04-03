@@ -1,78 +1,105 @@
-<h1 align="center">Ozan Gocmen</h1>
-<h3 align="center">Bioinformatics | Computational Biology | scRNA-seq | Spatial Transcriptomics | Genomics</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Ozan+Gocmen+👋;Bioinformatician+%7C+Bioengineer;Designing+de+novo+antibodies;Analyzing+scRNA-seq+data" alt="Typing SVG" />
+  
+  <p><em>Master's Candidate in Biotechnology/Bioengineering @ <a href="https://www.ege.edu.tr/">Ege University</a></em></p>
+
+  <img src="https://komarev.com/ghpvc/?username=ozangocmen&color=3b82f6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
 
 ---
 
-## About Me
-I'm a Master's student in Biotechnology/Bioengineering at [Ege University](https://www.ege.edu.tr/), specializing in bioinformatics. My research focuses on investigating immunological approaches for cancer treatment, processing large datasets to unravel the molecular mechanisms behind cancer, discovering new biomarkers, and developing individualized treatment strategies—all aimed at improving patients’ quality of life.
+## 🔬 About Me
 
-I'm also a proud member of the [BMGLab](https://bmglab-ege.com/) at Ege University, where we work on cutting-edge projects in bioinformatics and computational biology.
+I am a bioengineer and researcher at the **[BMGLab](https://bmglab-ege.com/)**, deeply passionate about leveraging computational tools to drive cancer research. My core focus bridges the gap between genomics and structural biology to develop individualized treatment modalities.
+
+* 🧬 **Current Research:** Identifying novel immunotherapy targets in Non-Small Cell Lung Cancer (NSCLC) using high-throughput single-cell transcriptomics. 
+* 🧪 **Structural Modeling:** Engineering *de novo* antibodies for CAR-T cell therapies using advanced deep learning tools like AlphaFold and RFdiffusion, backed by molecular dynamics simulations (GROMACS).
+* 💻 **Computational Pipelines:** Developing scalable Python packages and unsupervised machine learning workflows to decode cancer-associated immune cell states and tumor microenvironment dynamics.
 
 ---
 
-## Featured Project: CellMap
-I developed an interactive Shiny application, **CellMap**, to visualize and analyze cellular data.  
-Explore the application here: [CellMap](https://053p6k-ozan-gocmen.shinyapps.io/cellmap/)
+## 🚀 Featured Projects
+
+<br>
+
+### 🧬 [De Novo CAR-T Target Discovery Pipeline](#)
+**`scRNA-seq`** | **`Structural Modeling`** | **`NSCLC Immunotherapy`**
+
+> An end-to-end computational workflow bridging the gap between genomics and structural biology. This pipeline processes high-throughput single-cell transcriptomic data to identify novel immunotherapy targets in Non-Small Cell Lung Cancer (NSCLC), and seamlessly transitions into *de novo* antibody design for CAR-T modalities.
+
+**Tech Stack:** ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
+![Nextflow](https://img.shields.io/badge/Nextflow-19945a.svg?style=flat-square&logo=nextflow&logoColor=white) 
+![AlphaFold](https://img.shields.io/badge/AlphaFold-FF9900?style=flat-square) 
+![GROMACS](https://img.shields.io/badge/GROMACS-00599C?style=flat-square)
+
+🔗 **[View Pipeline Repository](#)**  | 📖 **[Read the Documentation](#)**
+
+<br>
+<hr>
+<br>
+
+### 📊 [CellMap: Interactive scRNA-seq Visualizer](https://053p6k-ozan-gocmen.shinyapps.io/cellmap/)
+**`Data Visualization`** | **`Interactive Analytics`** | **`Shiny App`**
+
+
+
+**Tech Stack:** ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) 
+![Shiny](https://img.shields.io/badge/Shiny-004488?style=flat-square) 
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+
+🔗 **[Explore the Live App](https://053p6k-ozan-gocmen.shinyapps.io/cellmap/)** | 💻 **[View Source Code](https://github.com/ozangocmen/cellstatemapping)** 
+
+<br>
+
+---
+
+## 🛠️ Languages, Tools & Workflows
+
+<details open>
+  <summary><b>Data Science, Analytics & Programming</b></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+</details>
+
+<details open>
+  <summary><b>Structural Biology & Deep Learning</b></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/GROMACS-Molecular_Dynamics-00599C?style=for-the-badge" alt="GROMACS" />
+  <img src="https://img.shields.io/badge/AlphaFold-Protein_Modeling-FF9900?style=for-the-badge" alt="AlphaFold" />
+  <img src="https://img.shields.io/badge/RFdiffusion-Protein_Design-EA4335?style=for-the-badge" alt="RFdiffusion" />
+</details>
+
+<details open>
+  <summary><b>Pipelines, Containerization & OS</b></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/Nextflow-19945a.svg?style=for-the-badge&logo=nextflow&logoColor=white" alt="Nextflow" />
+  <img src="https://img.shields.io/badge/Snakemake-2E8B57.svg?style=for-the-badge" alt="Snakemake" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</details>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ozangocmen&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&text_color=8a8a8a&icon_color=3b82f6" height="170" alt="" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozangocmen&theme=transparent&hide_border=true&title_color=3b82f6&text_color=8a8a8a&icon_color=3b82f6" height="170" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📬 Connect with Me
+
+I'm always open to collaborating on computational biology projects, discussing innovative cancer therapies. Feel free to reach out!
 
 <p align="center">
-  <img src="https://github.com/ozangocmen/ozangocmen/blob/main/giphy.gif" alt="CellMap Demo" width="300"/>
-</p>
-
----
-
-## Connect with Me
-<p align="left">
   <a href="https://www.linkedin.com/in/ozangocmen/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
   </a>
 </p>
-
-I'm open to collaboration and opportunities in bioinformatics development projects.
-
----
-
-## Languages and Tools:
-<p align="left">
-  <!-- Version Control & OS -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <!-- Statistical & Data Analysis -->
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" alt="R" width="50" height="40"/>
-  </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Shiny_hex_logo.svg" alt="Shiny" width="50" height="40"/>
-  </a>
-  <!-- Containerization -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="Docker" width="50" height="40"/>
-  </a>
-  <!-- Data Processing & Programming -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  </a>
-  <!-- Workflow Management Systems -->
-  <a href="https://nextflow.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextflow-1.svg" alt="Nextflow" width="40" height="40"/>
-  </a>
-  <a href="https://snakemake.readthedocs.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Snakemake_logo_dark.png/800px-Snakemake_logo_dark.png?20220226072335" alt="Snakemake" width="160" height="40"/>
-  </a>
-</p>
-
----
-
-Feel free to reach out if you’re interested in discussing bioinformatics, computational biology, or innovative approaches in cancer research!
