@@ -10,7 +10,7 @@
 
 ## 🔬 About Me
 
-I am a bioengineer and researcher at the **[BMGLab](https://bmglab-ege.com/)**, deeply passionate about leveraging computational tools to drive cancer research. My core focus bridges the gap between genomics and structural biology to develop individualized treatment modalities.
+I am a Master's candidate at the **[BMGLab](https://bmglab-ege.com/)**, deeply passionate about leveraging computational tools to drive cancer research. My core focus bridges the gap between genomics and structural biology to develop individualized treatment modalities.
 
 * 🧬 **Current Research:** Identifying novel immunotherapy targets in Non-Small Cell Lung Cancer (NSCLC) using high-throughput single-cell transcriptomics. 
 * 🧪 **Structural Modeling:** Engineering *de novo* antibodies for CAR-T cell therapies using advanced deep learning tools like AlphaFold and RFdiffusion, backed by molecular dynamics simulations (GROMACS).
