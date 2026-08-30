@@ -84,22 +84,12 @@ I am a Master's candidate at the **[BMGLab](https://bmglab-ege.com/)**, deeply p
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ozangocmen&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&text_color=8a8a8a&icon_color=3b82f6" height="170" alt="" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozangocmen&theme=transparent&hide_border=true&title_color=3b82f6&text_color=8a8a8a&icon_color=3b82f6" height="170" alt="GitHub Streak" />
-</div>
-
----
-
 ## 📬 Connect with Me
 
 I'm always open to collaborating on computational biology projects, discussing innovative cancer therapies. Feel free to reach out!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ozangocmen/" target="_blank">
+  <a href="https://www.linkedin.com/in/ozanbioeng/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
   </a>
 </p>
