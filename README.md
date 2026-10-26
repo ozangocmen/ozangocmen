@@ -3,7 +3,6 @@
   
   <p><em>Master's Candidate in Biotechnology/Bioengineering @ <a href="https://www.ege.edu.tr/">Ege University</a></em></p>
 
-  <img src="https://komarev.com/ghpvc/?username=ozangocmen&color=3b82f6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 ---
@@ -22,7 +21,7 @@ I am a Master's candidate at the **[BMGLab](https://bmglab-ege.com/)**, deeply p
 
 <br>
 
-### 🧬 [De Novo CAR-T Target Discovery Pipeline](#)
+### 🧬 [De Novo CAR-T Binders Discovery and Prioritization Pipeline](#)
 **`scRNA-seq`** | **`Structural Modeling`** | **`NSCLC Immunotherapy`**
 
 > An end-to-end computational workflow bridging the gap between genomics and structural biology. This pipeline processes high-throughput single-cell transcriptomic data to identify novel immunotherapy targets in Non-Small Cell Lung Cancer (NSCLC), and seamlessly transitions into *de novo* antibody design for CAR-T modalities.
@@ -32,7 +31,7 @@ I am a Master's candidate at the **[BMGLab](https://bmglab-ege.com/)**, deeply p
 ![AlphaFold](https://img.shields.io/badge/AlphaFold-FF9900?style=flat-square) 
 ![GROMACS](https://img.shields.io/badge/GROMACS-00599C?style=flat-square)
 
-🔗 **[View Pipeline Repository](#)**  | 📖 **[Read the Documentation](#)**
+🔗 **[View Pipeline Repository](https://github.com/BMGLab/DesCARTes)**  
 
 <br>
 <hr>
@@ -45,7 +44,7 @@ I am a Master's candidate at the **[BMGLab](https://bmglab-ege.com/)**, deeply p
 
 **Tech Stack:** ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) 
 ![Shiny](https://img.shields.io/badge/Shiny-004488?style=flat-square) 
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
 
 🔗 **[Explore the Live App](https://053p6k-ozan-gocmen.shinyapps.io/cellmap/)** | 💻 **[View Source Code](https://github.com/ozangocmen/cellstatemapping)** 
 
